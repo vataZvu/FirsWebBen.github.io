@@ -1,0 +1,341 @@
+ html,body{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+   .conteiner-1{
+      height: 90px;
+      background-color: #f7f7f7;
+   }
+   
+      .header{
+         width: 1100px;
+         margin: 0 auto;
+      }  
+      .nav-bar{
+         padding-top: 30px; 
+         float: left;
+      }
+         .nav-bar a { 
+            color:black;
+            text-decoration: none; 
+            margin-right: 20px;
+            font-size: 16px;
+         }
+         .nav-bar a:hover{
+            text-decoration: underline;
+            color:  #ff4e2e;
+         }
+         #right{
+            float: right;
+         }
+         .phone-block {
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+         }
+         #phone-number{
+            font-weight: bold;
+            font-size: 24px;
+         } 
+         #order-call{
+            margin-left: 20px;
+            width: 200px;
+            height: 40px;
+            border: 1px solid #ff4e2e;
+            background: transparent;
+            color: #ff4e2e;
+            font-weight: bold;
+         }
+   .conteiner-2{
+      height: 600px;
+      background-color: #f7f7f7;
+   }
+      .main-body{
+         width: 1500px;
+         height: 600px;
+         margin: 0 auto;
+         background: url('../image/Dmitry-Alekseev2.png') no-repeat 100% 0;
+      }
+         .main-body-text{
+               height: 600px;
+               width: 50%;
+               padding-left: 200px;
+         }
+                .person-name{
+                     font-size: 75px;
+                     font-weight: bold;
+                     padding-top: 25%;  
+                  }
+                  .description{
+                     font-size: 30px;
+                     color: gray;
+                     margin-top: 10px;;
+                  }
+                  .button-learn-more{
+                     margin-top: 30px;
+                     width: 200px;
+                     height: 40px;
+                     border: 1px solid #ff4e2e;
+                     background: #ff4e2e;
+                     color: white;
+                     font-size: 15px;
+                  }
+   .conteiner-3{
+      height: 150px;
+      background-color: #f7f7f7;
+   }
+      .text-what-i-do{
+         width: 1100px;
+         margin: 0% auto;
+         font-size: 50px;
+         font-weight: bold;
+         padding-top: 50px; 
+         text-align: center;
+      }
+   .conteiner-4{
+      height: 250px;
+      background-color: #f7f7f7;
+   }
+      .my-skills{
+         width: 1100px;
+         margin: 0% auto;
+         display: flex;
+      }
+         .skill-1{
+            height: 200px;
+            width: 250px;
+            text-align: justify;
+            margin-right: 25px;
+            background: url('../image/icons/tools-and-utensils.png') no-repeat center;
+            color: gray; 
+         }
+         .skill-2{
+            height: 200px;
+            width: 250px;
+            text-align: justify;
+            margin-right: 25px;
+            background: url('../image/icons/responsive.png') no-repeat center;
+            color: gray; 
+         }
+         .skill-3{
+            height: 200px;
+            width: 250px;
+            text-align: justify;
+            margin-right: 25px;
+            background: url('../image/icons/programming.png') no-repeat center;
+            color: gray; 
+         }
+         .skill-4{
+            height: 200px;
+            width: 250px;
+            text-align: justify;
+            background: url('../image/icons/coding\ .png') no-repeat center;
+            color: gray; 
+         }
+         #text-skill{
+            padding-top: 130px;
+            margin-left: 20px;
+            margin-right: 20px;
+         }
+   .conteiner-5{
+      height: 100px;
+      background: #f7f7f7;
+   }
+      .button-conteiner{
+         width: 1100px;
+         margin: 0 auto;
+      }
+         .button-cost{
+            margin-top: 30px;
+            width: 200px;
+            height: 40px;
+            border: 1px solid #ff4e2e;
+            background: #ff4e2e;
+            color: white;
+            margin-left: 450px;
+            font-size: 15px;
+         }
+   .conteiner-6{
+      height: 200px;
+      background: #f7f7f7;
+   }
+      .my-works-container{
+         width: 1100px;
+         margin: 0% auto;
+         font-size: 50px;
+         font-weight: bold;
+         padding-top: 50px; 
+         text-align: center;
+      }
+   .conteiner-7{
+      height: 350px;
+      background: #f7f7f7;
+   }
+      .work-examples{
+         width: 1100px;
+         margin: 0% auto;
+         display: flex;
+      }
+         .examples-1{
+            height: 360px;
+            width: 320px;
+            margin-right:70px;
+            background: url('../image/Portfolio_1.png') no-repeat top;
+            background-size: 100%;
+            color: gray;         
+         }
+         .examples-2{
+            height: 360px;
+            width: 320px;
+            margin-right:70px;
+            background: url('../image/Portfolio_2.png') no-repeat top;
+            background-size: 100%;
+            color: gray; 
+         }
+         .examples-3{
+            height: 360px;
+            width: 320px;
+            background: url('../image/Portfolio_3.png') no-repeat top;
+            background-size: 100%;
+            color: gray; 
+         }
+            #text-examples{
+               text-align: justify;
+               text-align: center;
+               margin-top: 280px;
+            }
+   .conteiner-8{
+      height: 150px;
+      background: #f7f7f7;
+   }
+   .conteiner-9{
+      height: 300px;
+      background: #ff4e2e;
+   }
+      .text-conteiner{
+         width: 900px;
+         margin: 0% auto;
+      }   
+         .text-1{
+            font-size: 40px;
+            font-weight: bold;
+            text-align: justify;
+            padding-top: 80px;
+            color: white;
+         }
+         .text-2{
+            font-size: 16px;
+            text-align: justify;
+            padding-top: 20px;
+            color: white;
+         }
+   .conteiner-10{
+      height: 200px;
+      background: #f7f7f7;
+   }
+      .conteiner-more-info{
+         width: 1100px;
+         margin: 0% auto;
+         display: flex;
+      }
+         .links{
+            height: 200px;
+            width: 300px;  
+            flex: 1;
+         }
+            .center-text{
+               width: 100px;
+               margin-top: 50px;
+               margin-left: 50px;
+            }
+               .links a{
+                     text-decoration: none;
+                     color: gray;
+                     font-size: 15px;
+                  }
+            
+         .phone-mail{
+            height: 200px;
+            width: 300px;
+            font-size: 24px;
+            flex: 1;
+         }
+            .position-center{
+               width: 300px;
+               margin: auto;
+               margin-top: 50px;
+            }
+            .span-phone{
+               height: 30px;
+               width: 310px;
+               text-align: center;
+               background: url('../image/icons/call-answer\ \(1\).png') no-repeat left center;
+            }
+            .span-mail{
+               margin-top: 20px;
+               width: 310px;
+               text-align: right;
+               background: url('../image/icons/envelope\ \(1\).png') no-repeat left center;
+            }
+         
+         .sociall{
+            height: 200px;
+            width: 300px;
+            flex: 1;
+         }
+            .position-center-2{
+               width: 300px;
+               margin: auto;
+               padding-top: 50px;
+               padding-left: 50px;
+            }
+            .button-futter{
+               float: right;
+            }
+            .sociall-futer{
+               width: 200px;
+               height: 40px;
+               margin: auto;
+               margin-top: 10px;
+               display: flex;
+               float: right;
+            }
+               .vk{
+                  margin-left: 15px;
+                  margin-right: 5px;
+                  height: 40px;
+                  width: 50px;
+                  background: url('../image/icons/vk\ \(1\).png') no-repeat center;
+               }
+               .fb{
+                  margin-right: 5px;
+                  height: 40px;
+                  width: 50px;
+                  background: url('../image/icons/facebook-logo\ \(1\).png') no-repeat center;
+               }
+               .twit{
+                  margin-right: 5px;
+                  height: 40px;
+                  width: 50px;
+                  background: url('../image/icons/twitter-logo-silhouette.png') no-repeat center;
+               }
+               .inst{
+                  margin-right: 20px;
+                  height: 40px;
+                  width: 50px;
+                  background: url('../image/icons/instagram-social-network-logo-of-photo-camera.png') no-repeat center;  
+               }
+
+   .conteiner-11{
+      height: 100px;
+      background: #0f0d20;
+   }
+      .futer{
+         width: 1100px;
+         margin: 0% auto;
+         color: white;
+         text-align: center;
+         padding-top: 40px;
+      }
